@@ -1,3 +1,1 @@
-"am adaugat al doilea fisier" 
-"extra line" 
-"linie de text pe ramura branch2" 
+"linie pe main" 
