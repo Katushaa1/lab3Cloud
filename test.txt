@@ -1,1 +1,3 @@
+<<<<<<< HEAD
 "linie pe main" 
+
