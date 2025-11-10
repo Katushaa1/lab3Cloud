@@ -1,4 +1,1 @@
-<<<<<<< HEAD
-"linie pe main" 
-
-
+"linie" 
