@@ -1,2 +1,1 @@
-<<<<<<< HEAD
-"linie" 
+"serverfix- o ramura in care se fac modificari care rezolva un bug pe server" 
